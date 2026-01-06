@@ -5,7 +5,7 @@ function initMap() {
   const mapOptions = {
     center: { lat: 54.5973, lng: -5.9301 }, // example: near Belfast; change if desired
     zoom: 6,
-    mapId: "767fa947b99684f8344b65b9", // the Marauder-style map ID from Cloud Console
+    mapId: "YOUR_MAP_ID", // the Marauder-style map ID from Cloud Console
     disableDefaultUI: false,
     gestureHandling: "greedy",
   };
@@ -58,3 +58,4 @@ function initMap() {
 
 // Make sure initMap is global for the callback
 window.initMap = initMap;
+
