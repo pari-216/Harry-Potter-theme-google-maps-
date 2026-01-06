@@ -42,6 +42,6 @@ It uses a parchment-style color palette, custom pixel-art markers for Hogwarts l
 3. **Clone or download this project**
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git https://github.com/pari-216/Harry-Potter-theme-google-maps.git
+   cd Harry-Potter-theme-google-maps
 
